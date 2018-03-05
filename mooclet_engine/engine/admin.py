@@ -9,4 +9,3 @@ admin.site.register(Variable)
 admin.site.register(Value)
 admin.site.register(Policy)
 admin.site.register(Learner)
-

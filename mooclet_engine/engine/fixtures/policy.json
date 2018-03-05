@@ -4,6 +4,7 @@
 	"pk": 1,
     "fields": {
       "name": "uniform_random",
+
 	  "policy_id": 1
 
     }
@@ -13,7 +14,7 @@
 	"pk": 2,
     "fields": {
       "name": "weighted_random",
-	  "policy_id": 2
+      "policy_id": 2
 
     }
   },
@@ -22,6 +23,7 @@
 	"pk": 3,
     "fields": {
       "name": "thompson_sampling",
+
 	  "policy_id": 3
      }
   },

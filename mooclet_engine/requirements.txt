@@ -1,9 +1,11 @@
 # additional deployment requirements
 psycopg2
 django-storages
+
 boto
 scipy
 pandas
 sklearn
 pyyaml
 boto3
+
