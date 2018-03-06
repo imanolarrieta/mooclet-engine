@@ -1,3 +1,6 @@
+#includes the base requirements needed in all environments
+-r requirements_base.txt
+
 # additional deployment requirements
 psycopg2
 django-storages
